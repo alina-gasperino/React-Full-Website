@@ -1,0 +1,60 @@
+.search {
+    background: #e36f1e;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    padding-left: 50px;
+}
+.search_space {
+    background: #e36f1e;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    padding-left: 50px;
+}
+input.location {
+    font-size: 18px;
+    width: 360px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    margin-left: 100px;
+}
+input.skill {
+    width: 20%;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    margin-left: 100px;
+    font-size: 18px;
+}
+span.looking {
+    font-size: 18px;
+    color: white;
+    font-weight: 600;
+    margin-left: 200px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.list-container {
+    background: #eeeeee;
+    z-index: 100;
+    position: absolute;
+    margin-left: 100px;
+    width: 360px;
+}
+a.todo-item {
+    color: black;
+    font-size: 16px;
+}
+.item {
+    padding-top: 10px;
+    padding-left: 20px;
+}
+i.fa.fa-search {
+    color: white;
+    font-size: 36px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 60px;
+}

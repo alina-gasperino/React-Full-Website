@@ -1,0 +1,42 @@
+.learn {
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-bottom: 200px;
+}
+h2.mb-20 {
+    font-size: 30px;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    font-weight: 700;
+    text-align: center;
+    color: #333333;
+}
+p.learn_body {
+    text-align: center;
+    color: #333333;
+    font-size: 16px;
+    line-height: 1.75!important;
+    font-family: open-sans,sans-serif!important;
+}
+p.learn_more {
+    text-align: center;
+}
+a.more {
+    border: 2px solid #e36f1e;
+    color: #e36f1e;
+    font-family: Soleto,"Helvetica Neue","Helvetica Medium",Helvetica,Arial,sans-serif;
+    display: inline-block;
+    padding: 8px 20px;
+    text-align: center;
+    border-radius: 22px;
+    font-size: 16px;
+    transition: all .3s;
+}
+a.more:hover {
+    color: white;
+    background: #e36f1e;
+    text-decoration: none;
+}
+.img_more{
+    width: 100%;
+}

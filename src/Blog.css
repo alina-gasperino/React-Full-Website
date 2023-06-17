@@ -1,0 +1,74 @@
+.blog_body, .blog_body_2{
+    display: flex;
+    width: 100%;
+    padding-left: 220px;
+    padding-right: 250px;
+}
+.blog_1 {
+    background-image: url("https://kforcewebeast.azureedge.net/media/400265/view-kforces-industry-specialties-we-serve.jpg");
+    background-size: cover;
+    width: 50%;
+    margin: 30px;
+}
+.blog_2 {
+    background-image: url("https://kforcewebeast.azureedge.net/media/400264/kforce-is-leader-in-the-staffing-industry.jpg");
+    background-size: cover;
+    width: 50%;
+    margin: 30px;
+}
+.blog_3 {
+    background-image: url("https://kforcewebeast.azureedge.net/media/400054/es-offerings.jpg");
+    background-size: cover;
+    width: 50%;
+    margin: 30px;
+}
+.blog_4 {
+    background-image: url("https://kforcewebeast.azureedge.net/media/400052/es-knowledge-center.jpg");
+    background-size: cover;
+    width: 50%;
+    margin: 30px;
+}
+h2.blog_heading {
+    padding: 80px;
+    color: white;
+    font-size: 24px;
+}
+h2.blog_heading::after{
+    display: block;
+    background: #e36f1e;
+    content: "";
+    left: 0;
+    height: 5px;
+    width: 50px;
+}
+.blog_text_body{
+    height: 200px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 45px;
+    color: white;
+    font-size: 22px;
+}
+.blog_more{
+    font: 1em/1.5em "Helvetica Neue","Helvetica Medium",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    box-sizing: border-box;
+    background-color: transparent;
+    padding: 8px 20px;
+    text-align: center;
+    border-radius: 22px;
+    border: 2px solid #fff;
+    color: #fff;
+    text-decoration: none!important;
+    margin-right: 30px;
+    transition: all .3s;
+}
+.blog_more:hover {
+    color: #e36f1e;
+    background: white;
+}
+.a_div {
+    padding-left: 80px;
+    padding-bottom: 70px;
+}
